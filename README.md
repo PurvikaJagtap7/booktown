@@ -29,4 +29,4 @@ We welcome contributions from anyone interested in improving the BookTown! To co
 ## Developer
 - Developed by ~ Purvika Jagtap
 
-`This project is developed for educational purposes and is free to use and modify.`
+
